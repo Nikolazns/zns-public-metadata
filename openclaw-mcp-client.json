@@ -1,0 +1,19 @@
+{
+  "redirect_uris": [
+    "http://127.0.0.1:8989/oauth/callback"
+  ],
+  "token_endpoint_auth_method": "none",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "application_type": "native",
+  "client_name": "ZNS OpenClaw MCP",
+  "client_uri": "https://zvuknastile.ru/",
+  "scope": "zns:read",
+  "software_id": "zns-openclaw-mcp",
+  "software_version": "1.0"
+}
