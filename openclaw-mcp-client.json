@@ -13,7 +13,7 @@
   "application_type": "native",
   "client_name": "ZNS OpenClaw MCP",
   "client_uri": "https://zvuknastile.ru/",
-  "scope": "zns:read zns:site:write",
+  "scope": "zns:read",
   "software_id": "zns-openclaw-mcp",
   "software_version": "1.0"
 }
